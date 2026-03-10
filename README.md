@@ -4,6 +4,12 @@
 
 A quick-reference maintenance guide for the **California Trimmer Catalyst** reel mower (LC20 / LC25), derived from the official operator's manual.
 
+> ### 📋 [Maintenance Schedule](California_Trimmer_Catalyst_Maintenance_Schedule.md)
+> Step-by-step maintenance tasks, intervals, and product recommendations.
+>
+> ### 🌿 [Mowing Tips & Gear](Mowing_Tips.md)
+> Tips for beating the heat, early morning mowing, accessories, and links to buy all recommended items.
+
 ## About the Mower
 
 The California Trimmer Catalyst is a professional-grade reel mower featuring an interchangeable cartridge system for mowing, dethatching, aerating, verticutting, and more.
