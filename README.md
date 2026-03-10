@@ -21,12 +21,14 @@ The California Trimmer Catalyst is a professional-grade reel mower featuring an 
 
 ## Maintenance Schedule at a Glance
 
-| Interval | Task | Lubricant |
-|---|---|---|
-| **Every 20 hrs** | Grease main drive shaft bearings (2 fittings per side) | Wheel bearing grease (NLGI #2) |
-| **Every 40 hrs** | Lube drum roller drive chain | Chain lube |
-| **Every 50 hrs / Seasonally** | Change engine oil | SAE 10W-30 |
-| **As needed** | Lube cables, levers, height adjuster | Light oil / multi-purpose spray |
+*Estimated real-world frequency assumes mowing **2–3 days/week** for **1–1.5 hrs per session** (~2–4.5 hrs/week).*
+
+| Interval | Estimated Real-World Frequency | Task | Lubricant |
+|---|---|---|---|
+| **Every 20 hrs** | Every **5–10 weeks** | Grease main drive shaft bearings (2 fittings per side) | Wheel bearing grease (NLGI #2) |
+| **Every 40 hrs** | Every **2–5 months** | Lube drum roller drive chain | Chain lube |
+| **Every 50 hrs / Seasonally** | Every **3–6 months** | Change engine oil | SAE 10W-30 |
+| **As needed** | Periodically / when stiff | Lube cables, levers, height adjuster | Light oil / multi-purpose spray |
 
 ## What's in This Repo
 
