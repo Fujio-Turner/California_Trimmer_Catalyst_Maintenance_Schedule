@@ -38,7 +38,7 @@ The California Trimmer Catalyst is a professional-grade reel mower featuring an 
 
 ## What's in This Repo
 
-- **[California_Trimmer_Catalyst_Maintenance_Schedule.md](California_Trimmer_Catalyst_Maintenance_Schedule.md%20%20%20%20)** — Detailed maintenance schedule with step-by-step instructions and product recommendations.
+- **[California_Trimmer_Catalyst_Maintenance_Schedule.md](California_Trimmer_Catalyst_Maintenance_Schedule.md)** — Detailed maintenance schedule with step-by-step instructions and product recommendations.
 - **[Mowing_Tips.md](Mowing_Tips.md)** — Mowing tips, gear recommendations, and accessories for the Catalyst. Includes links to buy all recommended items.
 - **[Catalyst_OM_Rev1A_6-24.pdf](docs/Catalyst_OM_Rev1A_6-24.pdf)** — Official California Trimmer Catalyst operator's manual (Rev 1A, June 2024).
 - **[Catalyst_DPL_rev3-12-25.pdf](docs/Catalyst_DPL_rev3-12-25.pdf)** — Official California Trimmer Catalyst detailed parts list (Rev 3-12-25).
