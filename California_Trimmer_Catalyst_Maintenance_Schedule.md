@@ -1,3 +1,17 @@
+# California Trimmer Catalyst — Maintenance Schedule
+
+## Table of Contents
+- [Lubrication Maintenance Schedule](#lubrication-maintenance-schedule)
+- [Quick Steps for Lubrication](#quick-steps-for-lubrication-bottom-line-how-to)
+- [Belt Replacement](#belt-replacement)
+- [Pro Tips & Additional Maintenance](#-pro-tips--additional-maintenance)
+  - [Install an Inductive Hour Meter](#-pro-tip-install-an-inductive-hour-meter)
+  - [Backlapping](#️-pro-tip-backlapping--keep-your-reel-sharp-between-grinds)
+  - [Professional Reel Grinding](#-pro-tip-professional-reel-grinding-service-mail-in)
+  - [Off-Season / Winter Storage](#-pro-tip-off-season--winter-storage-checklist)
+  - [Honda GX160 Engine Service Kit](#-pro-tip-honda-gx160-engine-service-kit)
+- [Where to Buy — Product Links](#where-to-buy--product-links)
+
 Here's a clear, easy-to-read **maintenance schedule** for your **California Trimmer Catalyst** [reel mower](https://grokipedia.com/page/Lawn_mower#Reel_mower), based directly on the operator's manual. I've formatted it as a simple table for quick reference.
 
 ### Lubrication Maintenance Schedule

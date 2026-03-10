@@ -1,5 +1,15 @@
 # Mowing Tips
 
+## Table of Contents
+- [Beat The Heat](#beat-the-heat-️)
+  - [Stay Cool with ICEPLATE](#stay-cool-with-iceplate)
+  - [Mow Early — And Light the Way](#mow-early--and-light-the-way-)
+  - [Keep the Mosquitoes Away](#keep-the-mosquitoes-away-)
+- [Operation](#operation)
+  - [Transport Wheel Kit](#transport-wheel-kit-️)
+  - [Track Your Engine Hours](#track-your-engine-hours-️)
+  - [Pull Starting Your Small Engine](#pro-tip-youre-pull-starting-your-small-engine-wrong-)
+
 ## Beat The Heat ☀️
 
 Summer mowing can be brutal. Here are a couple of tips to help you stay cool and safe.
