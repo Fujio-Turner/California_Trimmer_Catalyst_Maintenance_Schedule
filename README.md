@@ -1,6 +1,6 @@
 # California Trimmer Catalyst — Maintenance Schedule
 
-![California Trimmer Catalyst](https://caltrimmer.com/cdn/shop/files/0004_Catalyst25Honda_d49e85e6-35e6-4d26-a74c-16d437ea952b.jpg?v=1708718785&width=1200)
+<img src="https://caltrimmer.com/cdn/shop/files/0004_Catalyst25Honda_d49e85e6-35e6-4d26-a74c-16d437ea952b.jpg?v=1708718785&width=1200" alt="California Trimmer Catalyst" width="500">
 
 A quick-reference maintenance guide for the **California Trimmer Catalyst** reel mower (LC20 / LC25), derived from the official operator's manual.
 
@@ -33,7 +33,9 @@ The California Trimmer Catalyst is a professional-grade reel mower featuring an 
 ## What's in This Repo
 
 - **[California_Trimmer_Catalyst_Maintenance_Schedule.md](California_Trimmer_Catalyst_Maintenance_Schedule.md%20%20%20%20)** — Detailed maintenance schedule with step-by-step instructions and product recommendations.
-- **[Catalyst_OM_Rev1A_6-24.pdf](Catalyst_OM_Rev1A_6-24.pdf)** — Official California Trimmer Catalyst operator's manual (Rev 1A, June 2024).
+- **[Mowing_Tips.md](Mowing_Tips.md)** — Mowing tips, gear recommendations, and accessories for the Catalyst. Includes links to buy all recommended items.
+- **[Catalyst_OM_Rev1A_6-24.pdf](docs/Catalyst_OM_Rev1A_6-24.pdf)** — Official California Trimmer Catalyst operator's manual (Rev 1A, June 2024).
+- **[Catalyst_DPL_rev3-12-25.pdf](docs/Catalyst_DPL_rev3-12-25.pdf)** — Official California Trimmer Catalyst detailed parts list (Rev 3-12-25).
 
 ## Replacement Belt Part Numbers
 
